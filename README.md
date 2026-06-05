@@ -59,4 +59,4 @@ This project is designed to be deployed on Render using the included `render.yam
 
 ## 💡 Acknowledgements
 
-This project was developed based on the Build Your Own AI Agent course by Ania Kubow, supported by Render and freeCodeCamp.
+This project was developed based on the Build Your Own AI Agent course by Ania Kubow.
